@@ -174,7 +174,7 @@ function generatePassword() {
   console.log(result)
   return result.join("")
 }
-
+     
 // Get references to the #generate element
 var generateBtn = document.querySelector('#generate');
 
